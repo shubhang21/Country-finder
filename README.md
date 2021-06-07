@@ -15,3 +15,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+![image](https://user-images.githubusercontent.com/62418957/120961410-6ab3b880-c77b-11eb-9443-7c7cacfaec68.png)
